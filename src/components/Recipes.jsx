@@ -22,7 +22,7 @@ const Recipes =() =>{
         <div>
             <h3>Current Recipe:</h3>
             <button onClick={() => setRecipe(elvenshieldRecipe)}>
-                elvenshieldRecipe
+                Wahatever shieldRecipe
             </button>
             <button onClick={() => setRecipe(elvenGauntletsRecipe)}>
                 elvenGauntletsRecipe

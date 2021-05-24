@@ -3,6 +3,7 @@ body{
     margin: 0;
     background-color: variables.$bg;
     color: var(--text);
+    font-size: 26px;
 }
 main{
     display: flex;
@@ -13,5 +14,5 @@ button{
     font-size: 1.5rem;
 }
 ul{
-    list-style-image:url("../Images/sagor.jpg");
+    list-style-image:url("../Images/sagor.png");
 }
